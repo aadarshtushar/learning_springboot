@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: stores
+  datasource:
+    url: jdbc:mysql://localhost:3306/stores
+    username: root
+    password: pana
+  jpa:
+    show-sql: true
